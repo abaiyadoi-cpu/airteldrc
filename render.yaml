@@ -3,4 +3,4 @@ services:
     name: airtel-starlink-pricing
     env: static
     buildCommand: ""
-    staticPublishPath: ./
+    staticPublishPath: .
